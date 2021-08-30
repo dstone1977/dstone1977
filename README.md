@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dstone1977
-- I’m looking to collaborate with digital experience professional
+- I’m looking to collaborate with digital experience professionals.
 - 📫 How to reach me http://www.middlestone.com
 <!---
 dstone1977/dstone1977 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
